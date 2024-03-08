@@ -2,8 +2,8 @@
 date_default_timezone_set("Asia/Taipei");
 //----DB連接----
 $servername = "localhost";
-$username = "root";
-$password = "cf23754590";
+$username = "***";
+$password = "*****";
 $dbname = "newtest";
 // 建立連接
 $conn = new mysqli($servername, $username, $password, $dbname);
